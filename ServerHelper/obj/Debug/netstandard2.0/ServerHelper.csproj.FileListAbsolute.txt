@@ -1,0 +1,12 @@
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\bin\Debug\netstandard2.0\ServerHelper.deps.json
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\bin\Debug\netstandard2.0\ServerHelper.dll
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\bin\Debug\netstandard2.0\ServerHelper.pdb
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\bin\Debug\netstandard2.0\MafiaRules.dll
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\bin\Debug\netstandard2.0\MafiaRules.pdb
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.csprojAssemblyReference.cache
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.AssemblyInfoInputs.cache
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.AssemblyInfo.cs
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.csproj.CoreCompileInputs.cache
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.csproj.CopyComplete
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.dll
+D:\Grigorias\Project\VisualShar\MafiaRules\ServerHelper\obj\Debug\netstandard2.0\ServerHelper.pdb

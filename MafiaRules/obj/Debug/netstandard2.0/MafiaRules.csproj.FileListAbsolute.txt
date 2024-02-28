@@ -1,0 +1,9 @@
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\bin\Debug\netstandard2.0\MafiaRules.deps.json
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\bin\Debug\netstandard2.0\MafiaRules.dll
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\bin\Debug\netstandard2.0\MafiaRules.pdb
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\obj\Debug\netstandard2.0\MafiaRules.csprojAssemblyReference.cache
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\obj\Debug\netstandard2.0\MafiaRules.AssemblyInfoInputs.cache
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\obj\Debug\netstandard2.0\MafiaRules.AssemblyInfo.cs
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\obj\Debug\netstandard2.0\MafiaRules.csproj.CoreCompileInputs.cache
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\obj\Debug\netstandard2.0\MafiaRules.dll
+D:\Grigorias\Project\VisualShar\MafiaRules\MafiaRules\obj\Debug\netstandard2.0\MafiaRules.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "onFFS8VuczMF+4ewPDijZwG6H6aUDJiJ/Yp6kdvz5dViSLSbYl/Df+Ek3blQc9uim5MVZmTXpcCBsgdvnuPMAA==",
+  "success": true,
+  "projectFilePath": "D:\\Grigorias\\Project\\VisualShar\\MafiaRules\\ServerHelper\\ServerHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
