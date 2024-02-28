@@ -1,0 +1,1 @@
+One of the projects I enjoyed the most while developing. A VK bot which allows group members to play role based mafia boardgame via VK (Yes, it is a clone of more known project). Because of the fact that it was written in 2020, the quality of code is very poor.
